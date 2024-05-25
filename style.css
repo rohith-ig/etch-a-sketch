@@ -1,3 +1,12 @@
-* {
-    color: red;
+body {
+    display: flex;
+    justify-content: center;
+}
+#container {
+    width: 816px;
+    height: 816px;
+    border: 2px solid black;
+    margin-top: 70px;
+    display: flex;
+    flex-wrap: wrap;
 }
